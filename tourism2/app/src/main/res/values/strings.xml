@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">tourism2</string>
+
+
+    <string-array name="place_name">
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>Switzerland</item>
+        <item>Japan</item>
+        <item>China</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Canada is located in North America, bordering the United States to the south and northwest. Canada has a territory of 9.98 million square kilometers, making it the second largest country in the world. Canada is known as "the country of maple leaves" and Ottawa is the capital. Canada is a bilingual country. </item>
+        <item>Australia has a territorial area of 7692 thousand square kilometers, located between the South Pacific and the Indian Ocean, surrounded by sea, and is the only country in the world covering an entire continent Country. Australia, with many unique flora and fauna and natural landscapes, is a multicultural country of immigrants.</item>
+        <item>Switzerland is bordered by Germany to the north , France to the west , Italy to the south , and Austria and Liechtenstein to the east . The whole territory is dominated by plateaus and mountains , known as the "Roof of Europe". Bern is the seat of the federal government . </item>
+        <item>Japan is located in a temperate zone, with a mild climate and four distinct seasons. Sakura is the national flower of Japan. Every spring, the cherry blossoms are in full bloom among the green mountains and green waters, which is magnificent. There are many mountains in Japan. Most of the mountains are volcanoes.</item>
+        <item>China is located in eastern part of Asia, on the west coast of the Pacific Ocean. The land area is about 9.6 million square kilometers. Mountainousness is one of the main geographical features. The land of the country is high in the west and low in the east.</item>
+
+    </string-array>
+
+
+
+</resources>
